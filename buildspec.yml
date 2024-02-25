@@ -26,4 +26,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: /python_project
+  base-directory: Python_Project
